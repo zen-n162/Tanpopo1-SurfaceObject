@@ -16,5 +16,6 @@ Sputter, Block, Fiber, Bar, A/G fragmentの5種類に今の段階で分類され
   - VGG16
   - VGG16 + Batch Normalization
   - Vision Transformer
-  \\
+
+
 [発表資料](https://docs.google.com/presentation/d/1rqKcDY-ZD6nMXzUVyrAmeh15f6_feJYe8amlotuNuPM/edit?usp=sharing)
