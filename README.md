@@ -1,6 +1,6 @@
 # Tanpopo1-SurfaceObject
 
-1. たんぽぽ1計画とは
+## 1. たんぽぽ1計画とは
 - 国際ステーション上で行われている日本初のアストロバイオロジー実験
 - エアロゲル（低密度ガラスの捕獲材）を用いて**宇宙塵**(micrometeoroid)などを捕集する。
 　→ その物質を地上で分析する
@@ -10,10 +10,10 @@
 - 当初の目的ではないが、補修されたもの
   - 表面付着物(エアロゲル表面に付着するごみ)
 
-2. 表面付着物の分類
+## 2. 表面付着物の分類
 Sputter, Block, Fiber, Bar, A/G fragmentの5種類に今の段階で分類される。
 - 5クラス分類においてのアーキテクチャの比較
   - VGG16
   - VGG16 + Batch Normalization
   - Vision Transformer
-https://docs.google.com/presentation/d/1rqKcDY-ZD6nMXzUVyrAmeh15f6_feJYe8amlotuNuPM/edit?usp=sharing[発表資料]
+[発表資料](https://docs.google.com/presentation/d/1rqKcDY-ZD6nMXzUVyrAmeh15f6_feJYe8amlotuNuPM/edit?usp=sharing)
