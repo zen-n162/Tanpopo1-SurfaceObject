@@ -23,5 +23,4 @@ Sputter, Block, Fiber, Bar, A/G fragmentの5種類に今の段階で分類され
 - VGG16 + BatchNormalization: 平均 100.0　標準偏差 0.0000
 - ViT: 平均 99.6　標準偏差 0.0067
 - EfficientNet: 平均 88.2　標準偏差 3.9573
-#### テスト
 ![テスト結果](CrossValidation/20230206TanpopoML_test1.pdf)
