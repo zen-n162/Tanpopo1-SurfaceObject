@@ -12,3 +12,8 @@
 
 2. 表面付着物の分類
 Sputter, Block, Fiber, Bar, A/G fragmentの5種類に今の段階で分類される。
+- 5クラス分類においてのアーキテクチャの比較
+  - VGG16
+  - VGG16 + Batch Normalization
+  - Vision Transformer
+https://docs.google.com/presentation/d/1rqKcDY-ZD6nMXzUVyrAmeh15f6_feJYe8amlotuNuPM/edit?usp=sharing[発表資料]
