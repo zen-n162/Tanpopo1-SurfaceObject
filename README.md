@@ -16,3 +16,10 @@ Sputter, Block, Fiber, Bar, A/G fragmentの5種類に今の段階で分類され
   - VGG16
   - VGG16 + Batch Normalization
   - Vision Transformer
+ 
+### 結果 Results
+#### 交差検証（Cross Validation）
+- ViT: 平均 99.6　標準偏差 0.0067
+- VGG16 + BatchNormalization: 平均 100.0　標準偏差 0.0000
+- VGG16: 平均 93.9　標準偏差 0.1166
+- EfficientNet: 平均 88.2　標準偏差 3.9573
