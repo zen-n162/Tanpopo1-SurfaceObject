@@ -1,4 +1,4 @@
-5-Cross validationによる5クラス分類
+5クラス分類（交差検証なし）
 
 Google Colabratoryでの実行のリンク（**ipynbファイルが見れない場合**）
 - [Vision Transformer](https://colab.research.google.com/drive/1nuwSArvG9lr0q3f_ETOY7lM-A4ppsNnV?usp=sharing)
